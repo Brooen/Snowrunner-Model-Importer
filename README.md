@@ -1,5 +1,5 @@
 # Snowrunner-Model-Importer
-Blender addon that imports Snowrunner models
+Blender addon that imports/rips Snowrunner models
 
 **Unpacking the Game Files:**
 
