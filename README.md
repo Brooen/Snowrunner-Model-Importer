@@ -15,3 +15,5 @@ This importer is designed primarily for vehicle and environment models, and does
 
 The meshes include rigs.
 The weighting has about a 1 in 10 chance of working correctly.
+
+*if you really need me to fix this, you can let me know, I just dont have a reason to fix it rn*
